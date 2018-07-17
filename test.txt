@@ -3,3 +3,4 @@ Blue
 Green
 Red
 Purple
+Indigo
